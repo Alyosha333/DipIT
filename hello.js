@@ -17,6 +17,8 @@ git push origin - sends commits to origin / remote
 
 git branch "branchname"
 git checkout - to navigate between
+git checkout -b newbranchName
 
+git add . - add all the files
 
  */
