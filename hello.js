@@ -16,6 +16,7 @@ git log
 git push origin - sends commits to origin / remote
 
 git branch "branchname"
+git checkout - to navigate between
 
 
  */
